@@ -94,7 +94,15 @@ De acuerdo al Teorema de Thevenin:
 
 ![image](https://user-images.githubusercontent.com/116777118/211022171-858bb564-9380-422a-93bd-ae5ea4be4012.png)
 
+![image](https://user-images.githubusercontent.com/116777118/211056647-a6642201-7d48-4175-a69c-aef694294eda.png)
 
+![image](https://user-images.githubusercontent.com/116777118/211056814-1833b83e-b1d4-4b81-bd7c-1c9cc199abd6.png)
+
+![image](https://user-images.githubusercontent.com/116777118/211057003-ad0c4c1f-ebe2-4ba2-957f-d7c046c016e2.png)
+
+![image](https://user-images.githubusercontent.com/116777118/211057159-6bf51375-57af-488e-ae81-23257b42100b.png)
+
+![image](https://user-images.githubusercontent.com/116777118/211057324-51b938ab-cb66-4110-8076-b5653dd1461c.png)
 
 **5.4. VIDEO**
 
@@ -105,25 +113,6 @@ De acuerdo al Teorema de Thevenin:
 **5.6. BIBLIOGRAFIA**
 
 Floyd, TL (2007). Principios de Circuitos Electricos. México: Pearson Educación.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
