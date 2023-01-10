@@ -104,6 +104,14 @@ De acuerdo al Teorema de Thevenin:
 
 ![image](https://user-images.githubusercontent.com/116777118/211057324-51b938ab-cb66-4110-8076-b5653dd1461c.png)
 
+Tabla correspondiente a las respectivas mediciones. 
+
+![image](https://user-images.githubusercontent.com/116777118/211565564-c7ce0f2b-6ffb-460b-b424-2e9b0b1443bf.png)
+
+Errores de Cálculo: 
+
+![image](https://user-images.githubusercontent.com/116777118/211565924-507c0b88-92c4-464b-96e5-572dfdfab93c.png)
+
 **5.4. VIDEO**
 
 
