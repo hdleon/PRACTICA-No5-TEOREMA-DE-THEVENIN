@@ -114,10 +114,13 @@ Errores de Cálculo:
 
 **5.4. VIDEO**
 
+https://youtu.be/PNHU_YncdNU
 
 **5.5. CONCLUSIONES**
 
 - El uso y aplicación del teorema de Thévenin es de gran eficacia cuando tenemos cualquier tipo de circuito y queremos calcular cualquier tipo de valor desconocido en el mismo dando un circuito en serie más fácil para determinar dicho valor.
+
+- El teorema de Thevenin permite que cualquier circuito de resistencia lineal de dos terminales se simplifique a una sola forma, con una fuente y resistencia equivalente en serie, de acuerdo a la rama que se desea analizar, en cambio, el teorema de Norton con la misma idea,transforma un circuito complejo a una forma equivalente pero, compuesta por una fuente de corriente y resistencia equivalente en paralelo.
 
 - Los valores calculados (RTV y VTH) obtenidos analíticamente y experimentalmente corroboraron dicho teorema, sin embargo, observamos que estos datos tuvieron unos pequeños márgenes de error y esto se podría dar por dos razones: al momento de calcular con el multímetro los valores, intervienen las tolerancias de las resistencias , y esto podría afectar a los valores obtenidos; mientras que en los valores medidos tal vez interviene el hecho que no habíamos usado todos los decimales presentados en la calculadora, la cual aunque poco afecta los valores obtenidos.
 
